@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+
+
+* {
+   font-family: "Josefin Sans", sans-serif;
+}
+
+.header-hero-section {
+   background-image: url(../Images/Background\ Image.png);
+   height: 70vh;
+   background-size: cover;
+}
+
+.primary-bg {
+   background-color: #5956E9 !important;
+
+}
+
+.primary-color {
+   color: #5956E9 !important;
+}
+
+
+.app-features-section{
+   background-image: url(../Images/Rectangle\ 14.png);
+   height: 120vh;
+   background-size: cover;
+}
+
+
+.how-to-use{
+   background-image: url(../Images/backgroung\ img.png);
+   background-size: cover;
+   height: 400px;
+   padding: 35px 0px 0px 0px;
+
+}
+
+.video-img{
+   right: 23%;
+}
+
+
+.handle-height{
+   height: 650px;
+}
+
+.our-happy{
+   background-image: url(../Images/Rectangle\ 14\ \(1\).png);
+   background-size: cover;
+   height: 70vh;
+}
+
+.card-1{
+   width: 41%;
+   height: 26%;
+   margin-top: -280px;
+   right: 29%;
+   /* box-shadow: 2px 2px 20px black; */
+  
+} 
+
+.bg-img{
+   background-image: url(../Images/Rectangle\ 35.png);
+   background-size: cover;
+   height: 55vh;
+}
+
+.cards{
+  margin-bottom: 200px;
+}
+
+.line{
+   margin-left: 190px;
+}
+
+.section{
+  margin-right: 180px;
+}
+
+
+
+button{
+   right: 38px;
+   padding: 10px;
+   top: 1px;
+}
+.card-section{
+flex-wrap: wrap;
+}
